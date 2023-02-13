@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/foodgallery/static/css/main.d56c7b2f.css",
+    "main.js": "/foodgallery/static/js/main.a0a396ef.js",
+    "index.html": "/foodgallery/index.html",
+    "main.d56c7b2f.css.map": "/foodgallery/static/css/main.d56c7b2f.css.map",
+    "main.a0a396ef.js.map": "/foodgallery/static/js/main.a0a396ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d56c7b2f.css",
+    "static/js/main.a0a396ef.js"
+  ]
+}
